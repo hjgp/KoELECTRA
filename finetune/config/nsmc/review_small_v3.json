@@ -22,7 +22,7 @@
   "no_cuda": false,
   "model_type": "koelectra-small-v3",
   "model_name_or_path": "monologg/koelectra-small-v3-discriminator",
-  "output_dir": "koelectra-small-v3-nsmc-ckpt_review",
+  "output_dir": "koelectra-small-v3-nsmc-ckpt_review_2",
   "seed": 42,
   "train_batch_size": 32,
   "eval_batch_size": 16,
